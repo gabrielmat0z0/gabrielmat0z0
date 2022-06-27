@@ -1,5 +1,7 @@
-### Hi there 👋
-
+#sobre mim
+- ola eu me chamo gabriel matozo
+- atualmente estudo em CECMPS;
+- atualmente estou aprendendo sobre 
 <!--
 **gabrielmat0z0/gabrielmat0z0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
